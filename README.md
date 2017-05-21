@@ -10,8 +10,7 @@ How does it compile：
     make
     ./lab5
               // enter a number x
-              // x + 28825252 = result1
-              // 314159265358979323846 - x = result2
+             
               
 
 How does it work：
