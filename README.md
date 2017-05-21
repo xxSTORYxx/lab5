@@ -10,8 +10,7 @@ How does it compile：
     make
     ./lab5
               // enter a number x
-             
-              
+                      
 
 How does it work：
 -----------------
